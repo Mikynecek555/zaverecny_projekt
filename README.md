@@ -1,13 +1,13 @@
 # Závěrečný projekt - Mikeš Martin
 
-# E-shop via Django
+# E-shop via Spree Commerce
 - Ucebni materialy
-- https://django-shop.readthedocs.io/en/latest/index.html
-- https://github.com/awesto/django-shop
-- https://pythonrepo.com/repo/awesto-django-shop-python-e-commerce-and-payments
-- https://snipcart.com/blog/django-ecommerce-tutorial-wagtail-cms
-- https://docs.docker.com/samples/django/
+- https://www.youtube.com/watch?v=ec78bl1kypY&t=125s
+- https://user-docs.spreecommerce.org/
+- https://spree-guide-2-3-x.hoshinotsuyoshi.com/user/
+- https://github.com/spree/spree-guides
+- https://dev-docs.spreecommerce.org/
 
-
-// spree commerce
-// prestashop 
+// Stazeni Dockeru ✓
+// Stazeni Spree Commerce ✓
+// Zprovozneni X
